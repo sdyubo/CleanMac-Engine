@@ -1,0 +1,446 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "• CocoaPods/npm/pip 模块下载包缓存" : {
+
+    },
+    "• CoreSimulator Caches (模拟器缓存文件)" : {
+
+    },
+    "• Xcode DerivedData (项目编译中间文件)" : {
+
+    },
+    "> 1GB" : {
+
+    },
+    "♊️ 含重复副本: %lld 个" : {
+
+    },
+    "♊️ 重复文件" : {
+
+    },
+    "⚡️ CleanMac 引擎穿透分析中" : {
+
+    },
+    "📂 %@" : {
+
+    },
+    "📄 选中具体文件: %lld 个" : {
+
+    },
+    "app_name" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CleanMac Pro"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CleanMac 极简清理"
+          }
+        }
+      }
+    },
+    "app_subtitle" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS Storage Engine"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS 磁盘优化与加速引擎"
+          }
+        }
+      }
+    },
+    "available_space" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available Space"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "剩余可用空间"
+          }
+        }
+      }
+    },
+    "cleaning" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cleaning..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在清理中..."
+          }
+        }
+      }
+    },
+    "CleanMac Engine" : {
+
+    },
+    "mod_caches" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Application Caches"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用缓存垃圾"
+          }
+        }
+      }
+    },
+    "mod_logs" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System & User Logs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统与用户日志"
+          }
+        }
+      }
+    },
+    "mod_pkg" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Package Manager Caches"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包管理器缓存"
+          }
+        }
+      }
+    },
+    "mod_snapshots" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APFS Local Snapshots"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APFS 本地 Time Machine 快照"
+          }
+        }
+      }
+    },
+    "mod_trash" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty Trash"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清空废纸篓"
+          }
+        }
+      }
+    },
+    "mod_xcode" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xcode Developer Junk"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xcode 开发者垃圾"
+          }
+        }
+      }
+    },
+    "Shell 执行日志控制台 (stdout):" : {
+
+    },
+    "start_scan" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One-Click Clean"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一键深度清理"
+          }
+        }
+      }
+    },
+    "sub_caches" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User Caches & Temporary Files"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软件运行时积累的临时缓存"
+          }
+        }
+      }
+    },
+    "sub_logs" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs in /var/log & ~/Library/Logs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清理 Log 日志与运行跟踪文件"
+          }
+        }
+      }
+    },
+    "sub_pkg" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebrew, NPM, Yarn, Pip"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清理 Homebrew, npm, pip 留存包"
+          }
+        }
+      }
+    },
+    "sub_snapshots" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thin local purgestorage snapshots"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "释放因系统备份占用的几十G隐性快照"
+          }
+        }
+      }
+    },
+    "sub_trash" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permanently remove deleted files"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彻底清除 Trash 垃圾桶文件"
+          }
+        }
+      }
+    },
+    "sub_xcode" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DerivedData, Archives, Simulators"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编译派生数据与 iOS 模拟器缓存"
+          }
+        }
+      }
+    },
+    "terminal_logs" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Execution Console Log"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "后台实时脚本日志"
+          }
+        }
+      }
+    },
+    "total_cleaned" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Reclaimed"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "累计释放空间"
+          }
+        }
+      }
+    },
+    "一键勾选重复副本" : {
+
+    },
+    "一键深度搜寻已勾选大目录 (%lld)" : {
+
+    },
+    "功能模块分区" : {
+
+    },
+    "匹配命令: tmutil thinlocalpurgestorage / 9999999999 2>/dev/null" : {
+
+    },
+    "去开启授权" : {
+
+    },
+    "容量: %@ GB" : {
+
+    },
+    "已用: %@ GB" : {
+
+    },
+    "已穿透" : {
+
+    },
+    "已耗时: %llds / 预估 60s" : {
+
+    },
+    "建议开启“完全磁盘访问权限 (Full Disk Access)”" : {
+
+    },
+    "开始一键顺序清理" : {
+
+    },
+    "当前缺乏系统 TCC 权限，可能导致部分 Library 深度敏感目录检索出来的体积偏小或为空。" : {
+
+    },
+    "扫描根目录大文件 (du -sh)" : {
+
+    },
+    "拟释放空间:" : {
+
+    },
+    "正在顺序清理..." : {
+
+    },
+    "深度搜寻" : {
+
+    },
+    "清理步骤列表 (默认已全选，按序执行):" : {
+
+    },
+    "点击“扫描根目录大文件”，引擎将解析占用 TOP 20 目录，支持无限多层级下钻列表" : {
+
+    },
+    "物理删除选中文件 (%lld)" : {
+
+    },
+    "磁盘利用率" : {
+
+    },
+    "穿透中..." : {
+
+    },
+    "立即执行 APFS 快照薄化" : {
+
+    },
+    "系统就绪，等待交互指令..." : {
+
+    },
+    "调用 tmutil 命令释放本地 APFS 隐藏空间:" : {
+
+    },
+    "路径: %@" : {
+
+    },
+    "针对 iOS/Mac 开发者特定清理:" : {
+
+    }
+  },
+  "version" : "1.0"
+}
