@@ -39,6 +39,27 @@
 - macOS 13.0+ (Ventura / Sonoma / Sequoia)
 - Xcode 14.0+
 
+
+构建步骤
+
+Clone 仓库到本地：
+
+git clone https://github.com/sdyubo/CleanMac-Engine.git
+
+
+使用 Xcode 打开项目：
+
+cd CleanMac-Engine
+open CleanMac.xcodeproj
+
+
+选择 Target: CleanMac 并直接运行 (⌘ + R)。
+
+🤝 贡献与反馈
+
+欢迎提交 Issue 或 Pull Request！如果你有更高效的算法（例如基于 Swift / C 的多线程文件树扫描方案），非常欢迎参与开源共建。
+
+
 ### Grant Full Disk Access (FDA) / 授权“完全磁盘访问权限”
 
 > **English:**
@@ -81,32 +102,7 @@ rm -rf ~/.Trash/* 2>/dev/null
 sudo tmutil thinlocalpurgestorage / 9999999999 2>/dev/null
 
 
-🚀 快速开始
 
-运行环境要求
-
-macOS：13.0 (Ventura) / 14.0 (Sonoma) / 15.0 (Sequoia) 及以上
-
-Xcode：14.0 及以上 (Swift 5.8+)
-
-构建步骤
-
-Clone 仓库到本地：
-
-git clone https://github.com/sdyubo/CleanMac-Engine.git
-
-
-使用 Xcode 打开项目：
-
-cd CleanMac-Engine
-open CleanMac.xcodeproj
-
-
-选择 Target: CleanMac 并直接运行 (⌘ + R)。
-
-🤝 贡献与反馈
-
-欢迎提交 Issue 或 Pull Request！如果你有更高效的算法（例如基于 Swift / C 的多线程文件树扫描方案），非常欢迎参与开源共建。
 
 📄 开源许可证
 
